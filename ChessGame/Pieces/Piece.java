@@ -1,6 +1,6 @@
-package Pieces;
+package ChessGame.pieces;
 
-import Utils.Position;
+import ChessGame.utils.Position;
 import java.util.List;
 
 public abstract class Piece {
