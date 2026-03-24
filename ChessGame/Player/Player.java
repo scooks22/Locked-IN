@@ -1,5 +1,1 @@
-package ChessGame.Player;
-
-public class Player {
-    
-}
+package ChessGame.player;
