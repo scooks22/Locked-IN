@@ -5,7 +5,7 @@ import utils.Position;
  
 import java.util.ArrayList;
 import java.util.List;
- 
+
 public class Board {
  
     private Piece[][] grid;
