@@ -1,0 +1,12 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+import game.Game;
+
+public class Main {
+   public Main() {
+   }
+
+   public static void main(String[] var0) {
+      Game var1 = new Game();
+      var1.start();
+   }
+}

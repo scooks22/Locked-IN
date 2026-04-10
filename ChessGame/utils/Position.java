@@ -1,4 +1,4 @@
-package ChessGame.utils;
+package utils;
 
 public class Position {
     
@@ -15,6 +15,10 @@ public class Position {
     }
     
     public int getColumn() {
+        return column;
+    }
+    
+    public int getCol() {
         return column;
     }
     
